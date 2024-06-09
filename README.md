@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 09 Jun 2024 20:39:40 GMT.
+This list was last updated on: Sun, 09 Jun 2024 20:41:50 GMT.
 
 ## Available Servers
 
@@ -103,10 +103,10 @@ Below is the list of available VPN servers:
 | vpn570205790 | 61.100.215.45 | 81 | 8.98 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
 | vpn396779784 | 182.231.167.127 | 53 | 5.36 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
 | vpn348186579 | 218.236.68.251 | 54 | 9.38 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
-| vpn800315139 | 125.251.51.152 | 38 | 4.88 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
-| vpn279532352 | 184.22.106.91 | 28 | 41.95 Mbps | Thailand | [Download 📥](./configs/server_92_TH.ovpn) |
-| vpn610596269 | 111.118.25.176 | 38 | 4.26 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
-| vpn197670765 | 58.238.160.123 | 35 | 43.96 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
+| vpn313062506 | 129.150.50.241 | 1 | 38.21 Mbps | United States | [Download 📥](./configs/server_91_US.ovpn) |
+| vpn800315139 | 125.251.51.152 | 38 | 4.88 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
+| vpn279532352 | 184.22.106.91 | 28 | 41.95 Mbps | Thailand | [Download 📥](./configs/server_93_TH.ovpn) |
+| vpn610596269 | 111.118.25.176 | 38 | 4.26 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
