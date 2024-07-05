@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Fri, 05 Jul 2024 03:35:38 GMT.
+This list was last updated on: Fri, 05 Jul 2024 03:36:18 GMT.
 
 ## Available Servers
 
@@ -104,7 +104,7 @@ Below is the list of available VPN servers:
 | vpn154592432 | 37.21.200.88 | 63 | 2.38 Mbps | Russian Federation | [Download 📥](./configs/server_89_RU.ovpn) |
 | vpn841307050 | 181.206.156.60 | - | 4.20 Mbps | Colombia | [Download 📥](./configs/server_90_CO.ovpn) |
 | vpn968914359 | 78.40.116.154 | 7 | 8.24 Mbps | Moldova Republic of | [Download 📥](./configs/server_91_MD.ovpn) |
-| vpn126121445 | 219.107.56.111 | 8 | 4.36 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
+| vpn945220727 | 45.139.225.54 | 1 | 493.96 Mbps | Australia | [Download 📥](./configs/server_92_AU.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
