@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 11 Aug 2024 05:37:43 GMT.
+This list was last updated on: Sun, 11 Aug 2024 05:41:04 GMT.
 
 ## Available Servers
 
@@ -110,6 +110,7 @@ Below is the list of available VPN servers:
 | v-dot-pn-dus1 | 62.133.35.246 | 3 | 21.43 Mbps | Germany | [Download 📥](./configs/server_95_DE.ovpn) |
 | vpn702508707 | 81.89.127.83 | 143 | 2.85 Mbps | Russian Federation | [Download 📥](./configs/server_96_RU.ovpn) |
 | vpn426295148 | 184.22.114.32 | - | 8.85 Mbps | Thailand | [Download 📥](./configs/server_97_TH.ovpn) |
+| vpn532866195 | 126.218.161.117 | 8 | 8.82 Mbps | Japan | [Download 📥](./configs/server_98_JP.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
