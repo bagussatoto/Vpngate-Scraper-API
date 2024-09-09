@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Mon, 09 Sep 2024 21:39:22 GMT.
+This list was last updated on: Mon, 09 Sep 2024 21:45:30 GMT.
 
 ## Available Servers
 
@@ -105,12 +105,12 @@ Below is the list of available VPN servers:
 | vpn958040230 | 119.63.244.208 | 51 | 7.07 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
 | vpn330742218 | 211.245.134.52 | 34 | 9.01 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
 | vpn779325354 | 191.31.46.197 | 47 | 19.95 Mbps | Brazil | [Download 📥](./configs/server_92_BR.ovpn) |
-| vpn133999861 | 89.22.176.111 | 62 | 4.40 Mbps | Russian Federation | [Download 📥](./configs/server_93_RU.ovpn) |
-| vpn689088618 | 220.72.228.22 | 33 | 2.06 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
-| vpn957008409 | 176.116.186.195 | 76 | 6.04 Mbps | Russian Federation | [Download 📥](./configs/server_95_RU.ovpn) |
-| vpn227224361 | 37.11.216.165 | - | 10.52 Mbps | Spain | [Download 📥](./configs/server_96_ES.ovpn) |
-| vpn516162599 | 46.61.88.164 | - | 4.59 Mbps | Russian Federation | [Download 📥](./configs/server_97_RU.ovpn) |
-| v-dot-pn-dus1 | 62.133.35.246 | 3 | 3.48 Mbps | Germany | [Download 📥](./configs/server_98_DE.ovpn) |
+| vpn849046280 | 54.199.207.75 | 1 | 7.57 Mbps | United States | [Download 📥](./configs/server_93_US.ovpn) |
+| vpn133999861 | 89.22.176.111 | 62 | 4.40 Mbps | Russian Federation | [Download 📥](./configs/server_94_RU.ovpn) |
+| vpn689088618 | 220.72.228.22 | 33 | 2.06 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
+| vpn957008409 | 176.116.186.195 | 76 | 6.04 Mbps | Russian Federation | [Download 📥](./configs/server_96_RU.ovpn) |
+| vpn227224361 | 37.11.216.165 | - | 10.52 Mbps | Spain | [Download 📥](./configs/server_97_ES.ovpn) |
+| vpn516162599 | 46.61.88.164 | - | 4.59 Mbps | Russian Federation | [Download 📥](./configs/server_98_RU.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
