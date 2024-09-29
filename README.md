@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 29 Sep 2024 21:00:01 GMT.
+This list was last updated on: Sun, 29 Sep 2024 21:13:56 GMT.
 
 ## Available Servers
 
@@ -26,13 +26,13 @@ Below is the list of available VPN servers:
 | public-vpn-49 | 219.100.37.15 | 18 | 1.89 Mbps | Japan | [Download 📥](./configs/server_11_JP.ovpn) |
 | vpn439681156 | 104.28.254.73 | 26 | 9.05 Mbps | United States | [Download 📥](./configs/server_12_US.ovpn) |
 | public-vpn-0 | 219.100.37.18 | 10 | 0.44 Mbps | Japan | [Download 📥](./configs/server_13_JP.ovpn) |
-| vpn257994583 | 211.184.253.125 | 31 | 7.13 Mbps | Korea Republic of | [Download 📥](./configs/server_14_KR.ovpn) |
-| vpn391201538 | 210.123.54.6 | 30 | 28.48 Mbps | Korea Republic of | [Download 📥](./configs/server_15_KR.ovpn) |
-| vpn195575104 | 150.246.140.7 | 3 | 88.00 Mbps | Japan | [Download 📥](./configs/server_16_JP.ovpn) |
-| public-vpn-215 | 219.100.37.182 | 8 | 3.12 Mbps | Japan | [Download 📥](./configs/server_17_JP.ovpn) |
-| vpn0925204913 | 123.195.133.10 | 40 | 2.92 Mbps | Taiwan | [Download 📥](./configs/server_18_TW.ovpn) |
-| vpn884817225 | 211.44.188.38 | 31 | 87.34 Mbps | Korea Republic of | [Download 📥](./configs/server_19_KR.ovpn) |
-| vpn286008512 | 160.86.193.26 | - | 16.09 Mbps | Japan | [Download 📥](./configs/server_20_JP.ovpn) |
+| vpn286008512 | 160.86.193.26 | 3 | 15.40 Mbps | Japan | [Download 📥](./configs/server_14_JP.ovpn) |
+| vpn257994583 | 211.184.253.125 | 31 | 7.13 Mbps | Korea Republic of | [Download 📥](./configs/server_15_KR.ovpn) |
+| vpn391201538 | 210.123.54.6 | 30 | 28.48 Mbps | Korea Republic of | [Download 📥](./configs/server_16_KR.ovpn) |
+| vpn195575104 | 150.246.140.7 | 3 | 88.00 Mbps | Japan | [Download 📥](./configs/server_17_JP.ovpn) |
+| public-vpn-215 | 219.100.37.182 | 8 | 3.12 Mbps | Japan | [Download 📥](./configs/server_18_JP.ovpn) |
+| vpn0925204913 | 123.195.133.10 | 40 | 2.92 Mbps | Taiwan | [Download 📥](./configs/server_19_TW.ovpn) |
+| vpn884817225 | 211.44.188.38 | 31 | 87.34 Mbps | Korea Republic of | [Download 📥](./configs/server_20_KR.ovpn) |
 | public-vpn-68 | 219.100.37.17 | 17 | 0.55 Mbps | Japan | [Download 📥](./configs/server_21_JP.ovpn) |
 | vpn610339710 | 98.42.3.42 | 20 | 39.77 Mbps | United States | [Download 📥](./configs/server_22_US.ovpn) |
 | vpn431396938 | 173.198.248.39 | 4 | 3.19 Mbps | United States | [Download 📥](./configs/server_23_US.ovpn) |
