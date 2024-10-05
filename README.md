@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 05 Oct 2024 19:41:00 GMT.
+This list was last updated on: Sat, 05 Oct 2024 19:44:03 GMT.
 
 ## Available Servers
 
@@ -32,9 +32,9 @@ Below is the list of available VPN servers:
 | vpn751283072 | 106.136.250.10 | 16 | 78.12 Mbps | Japan | [Download 📥](./configs/server_17_JP.ovpn) |
 | public-vpn-215 | 219.100.37.182 | 13 | 10.52 Mbps | Japan | [Download 📥](./configs/server_18_JP.ovpn) |
 | vpn484751296 | 60.94.90.206 | 5 | 38.90 Mbps | Japan | [Download 📥](./configs/server_19_JP.ovpn) |
-| vpn609126211 | 153.187.138.139 | 15 | 17.44 Mbps | Japan | [Download 📥](./configs/server_20_JP.ovpn) |
-| vpn748367065 | 60.150.170.138 | 7 | 8.83 Mbps | Japan | [Download 📥](./configs/server_21_JP.ovpn) |
-| 2i6 | 1.66.34.6 | 27 | 10.41 Mbps | Japan | [Download 📥](./configs/server_22_JP.ovpn) |
+| vpn609126211 | 153.187.138.139 | 15 | 16.67 Mbps | Japan | [Download 📥](./configs/server_20_JP.ovpn) |
+| 2i6 | 1.66.34.6 | 27 | 10.41 Mbps | Japan | [Download 📥](./configs/server_21_JP.ovpn) |
+| vpn748367065 | 60.150.170.138 | 7 | 8.83 Mbps | Japan | [Download 📥](./configs/server_22_JP.ovpn) |
 | vpn560967944 | 183.182.116.147 | 57 | 2.61 Mbps | Lao People's Democratic Republic | [Download 📥](./configs/server_23_LA.ovpn) |
 | vpn431640227 | 110.46.158.118 | 50 | 1.92 Mbps | Korea Republic of | [Download 📥](./configs/server_24_KR.ovpn) |
 | public-vpn-68 | 219.100.37.17 | 10 | 1.89 Mbps | Japan | [Download 📥](./configs/server_25_JP.ovpn) |
