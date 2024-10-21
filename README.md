@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Mon, 21 Oct 2024 02:33:27 GMT.
+This list was last updated on: Mon, 21 Oct 2024 02:44:34 GMT.
 
 ## Available Servers
 
@@ -103,8 +103,8 @@ Below is the list of available VPN servers:
 | vpn480963509 | 184.22.140.137 | 36 | 37.27 Mbps | Thailand | [Download 📥](./configs/server_88_TH.ovpn) |
 | vpn458892628 | 109.63.141.84 | 19 | 2.00 Mbps | Russian Federation | [Download 📥](./configs/server_89_RU.ovpn) |
 | vpn747430484 | 23.243.146.114 | 16 | 4.26 Mbps | United States | [Download 📥](./configs/server_90_US.ovpn) |
-| vpn135551759 | 73.241.162.86 | 12 | 3.38 Mbps | United States | [Download 📥](./configs/server_91_US.ovpn) |
-| vpn904761525 | 27.132.246.246 | 3 | 1.17 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
+| vpn904761525 | 27.132.246.246 | 3 | 1.17 Mbps | Japan | [Download 📥](./configs/server_91_JP.ovpn) |
+| vpn135551759 | 73.241.162.86 | 12 | 3.38 Mbps | United States | [Download 📥](./configs/server_92_US.ovpn) |
 | vpn663181135 | 67.180.151.40 | 17 | 32.83 Mbps | United States | [Download 📥](./configs/server_93_US.ovpn) |
 | vpn467440074 | 118.68.20.67 | 49 | 60.42 Mbps | Viet Nam | [Download 📥](./configs/server_94_VN.ovpn) |
 | vpn309619419 | 211.131.40.46 | - | 45.91 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
