@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 01 Dec 2024 22:44:38 GMT.
+This list was last updated on: Sun, 01 Dec 2024 22:45:06 GMT.
 
 ## Available Servers
 
@@ -108,10 +108,10 @@ Below is the list of available VPN servers:
 | vpn664047935 | 47.132.80.186 | 34 | 4.01 Mbps | United States | [Download 📥](./configs/server_93_US.ovpn) |
 | vpn795596804 | 177.255.29.23 | - | 6.70 Mbps | Colombia | [Download 📥](./configs/server_94_CO.ovpn) |
 | familia2025 | 85.117.235.136 | 59 | 0.65 Mbps | Russian Federation | [Download 📥](./configs/server_95_RU.ovpn) |
-| nomin-jpwest1 | 219.94.251.58 | 1 | 7.49 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
-| vpn860701329 | 81.84.56.81 | - | 11.66 Mbps | Portugal | [Download 📥](./configs/server_97_PT.ovpn) |
-| vpn380058884 | 126.120.60.78 | 8 | 7.84 Mbps | Japan | [Download 📥](./configs/server_98_JP.ovpn) |
-| vpn858803054 | 175.134.215.202 | 6 | 6.41 Mbps | Japan | [Download 📥](./configs/server_99_JP.ovpn) |
+| vpn860701329 | 81.84.56.81 | - | 11.66 Mbps | Portugal | [Download 📥](./configs/server_96_PT.ovpn) |
+| vpn380058884 | 126.120.60.78 | 8 | 7.84 Mbps | Japan | [Download 📥](./configs/server_97_JP.ovpn) |
+| vpn858803054 | 175.134.215.202 | 6 | 6.41 Mbps | Japan | [Download 📥](./configs/server_98_JP.ovpn) |
+| vpn894544450 | 185.29.10.196 | 7 | 12.35 Mbps | Belize | [Download 📥](./configs/server_99_BZ.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
