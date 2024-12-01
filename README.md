@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 01 Dec 2024 20:55:46 GMT.
+This list was last updated on: Sun, 01 Dec 2024 20:58:44 GMT.
 
 ## Available Servers
 
@@ -47,12 +47,12 @@ Below is the list of available VPN servers:
 | vpn910330456 | 122.38.184.136 | 37 | 21.29 Mbps | Korea Republic of | [Download 📥](./configs/server_32_KR.ovpn) |
 | vpn390895355 | 221.149.172.114 | 27 | 37.12 Mbps | Korea Republic of | [Download 📥](./configs/server_33_KR.ovpn) |
 | vpn823407916 | 210.194.191.198 | 29 | 23.34 Mbps | Japan | [Download 📥](./configs/server_34_JP.ovpn) |
-| vpn434008438 | 61.27.224.120 | 29 | 21.65 Mbps | Japan | [Download 📥](./configs/server_35_JP.ovpn) |
-| vpn807697996 | 218.209.125.31 | 43 | 6.75 Mbps | Korea Republic of | [Download 📥](./configs/server_36_KR.ovpn) |
+| vpn807697996 | 218.209.125.31 | 43 | 6.75 Mbps | Korea Republic of | [Download 📥](./configs/server_35_KR.ovpn) |
+| vpn434008438 | 61.27.224.120 | 29 | 21.65 Mbps | Japan | [Download 📥](./configs/server_36_JP.ovpn) |
 | vpn346763354 | 223.216.179.2 | 6 | 24.81 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
 | vpn214335136 | 60.110.16.61 | 12 | 22.84 Mbps | Japan | [Download 📥](./configs/server_38_JP.ovpn) |
-| vpn710866893 | 221.147.27.204 | 27 | 5.13 Mbps | Korea Republic of | [Download 📥](./configs/server_39_KR.ovpn) |
-| vpn573523759 | 95.53.6.87 | 20 | 4.11 Mbps | Russian Federation | [Download 📥](./configs/server_40_RU.ovpn) |
+| vpn573523759 | 95.53.6.87 | 20 | 4.11 Mbps | Russian Federation | [Download 📥](./configs/server_39_RU.ovpn) |
+| vpn710866893 | 221.147.27.204 | 27 | 5.13 Mbps | Korea Republic of | [Download 📥](./configs/server_40_KR.ovpn) |
 | vpn716340999 | 220.88.163.163 | 31 | 29.93 Mbps | Korea Republic of | [Download 📥](./configs/server_41_KR.ovpn) |
 | vpn424840530 | 184.22.117.34 | 24 | 56.57 Mbps | Thailand | [Download 📥](./configs/server_42_TH.ovpn) |
 | vpn713218763 | 121.83.29.220 | 2 | 69.64 Mbps | Japan | [Download 📥](./configs/server_43_JP.ovpn) |
