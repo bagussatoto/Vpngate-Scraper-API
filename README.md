@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Mon, 02 Dec 2024 23:22:25 GMT.
+This list was last updated on: Mon, 02 Dec 2024 23:23:43 GMT.
 
 ## Available Servers
 
@@ -47,9 +47,9 @@ Below is the list of available VPN servers:
 | vpn500270442 | 121.109.224.163 | 6 | 57.94 Mbps | Japan | [Download 📥](./configs/server_32_JP.ovpn) |
 | vpn847577462 | 126.115.89.69 | 20 | 30.07 Mbps | Japan | [Download 📥](./configs/server_33_JP.ovpn) |
 | vpn345761892 | 122.21.49.205 | 12 | 8.48 Mbps | Japan | [Download 📥](./configs/server_34_JP.ovpn) |
-| vpn706828378 | 106.161.41.4 | 3 | 235.21 Mbps | Japan | [Download 📥](./configs/server_35_JP.ovpn) |
-| vpn609126211 | 180.36.60.167 | 19 | 17.63 Mbps | Japan | [Download 📥](./configs/server_36_JP.ovpn) |
-| vpn502612116 | 124.212.19.24 | 9 | 6.72 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
+| vpn609126211 | 180.36.60.167 | 19 | 17.63 Mbps | Japan | [Download 📥](./configs/server_35_JP.ovpn) |
+| vpn502612116 | 124.212.19.24 | 9 | 6.72 Mbps | Japan | [Download 📥](./configs/server_36_JP.ovpn) |
+| vpn706828378 | 106.161.41.4 | 3 | 225.87 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
 | vpn556531771 | 126.107.170.180 | 15 | 46.17 Mbps | Japan | [Download 📥](./configs/server_38_JP.ovpn) |
 | vpn650475175 | 153.162.106.222 | 10 | 19.04 Mbps | Japan | [Download 📥](./configs/server_39_JP.ovpn) |
 | vpn750144839 | 5.228.36.20 | 20 | 3.53 Mbps | Russian Federation | [Download 📥](./configs/server_40_RU.ovpn) |
@@ -100,16 +100,16 @@ Below is the list of available VPN servers:
 | vpn563247130 | 77.34.243.150 | 134 | 9.17 Mbps | Russian Federation | [Download 📥](./configs/server_85_RU.ovpn) |
 | vpn293363826 | 1.54.129.66 | 33 | 1.73 Mbps | Viet Nam | [Download 📥](./configs/server_86_VN.ovpn) |
 | vpn915567215 | 128.230.138.65 | 10 | 6.49 Mbps | United States | [Download 📥](./configs/server_87_US.ovpn) |
-| nomin-jpwest1 | 219.94.251.58 | 1 | 7.42 Mbps | Japan | [Download 📥](./configs/server_88_JP.ovpn) |
-| vpn934549227 | 115.65.47.55 | 9 | 50.70 Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) |
-| vpn292011613 | 111.216.247.181 | 4 | 25.66 Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) |
-| vpn253973526 | 211.122.69.135 | 11 | 45.23 Mbps | Japan | [Download 📥](./configs/server_91_JP.ovpn) |
-| vpn761444203 | 182.168.246.136 | 9 | 3.43 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
-| vpn127745234 | 118.136.6.164 | 24 | 9.29 Mbps | Indonesia | [Download 📥](./configs/server_93_ID.ovpn) |
-| vpn626579442 | 160.191.48.54 | 28 | 8.03 Mbps | Viet Nam | [Download 📥](./configs/server_94_VN.ovpn) |
-| vpn484044599 | 195.16.88.30 | 14 | 6.62 Mbps | Lithuania | [Download 📥](./configs/server_95_LT.ovpn) |
-| vpn498163073 | 124.45.107.93 | 10 | 2.89 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
-| vpn334638677 | 153.151.214.125 | 6 | 9.64 Mbps | Japan | [Download 📥](./configs/server_97_JP.ovpn) |
+| vpn934549227 | 115.65.47.55 | 9 | 50.70 Mbps | Japan | [Download 📥](./configs/server_88_JP.ovpn) |
+| vpn292011613 | 111.216.247.181 | 4 | 25.66 Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) |
+| vpn253973526 | 211.122.69.135 | 11 | 45.23 Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) |
+| vpn761444203 | 182.168.246.136 | 9 | 3.43 Mbps | Japan | [Download 📥](./configs/server_91_JP.ovpn) |
+| vpn127745234 | 118.136.6.164 | 24 | 9.29 Mbps | Indonesia | [Download 📥](./configs/server_92_ID.ovpn) |
+| vpn626579442 | 160.191.48.54 | 28 | 8.03 Mbps | Viet Nam | [Download 📥](./configs/server_93_VN.ovpn) |
+| vpn484044599 | 195.16.88.30 | 14 | 6.62 Mbps | Lithuania | [Download 📥](./configs/server_94_LT.ovpn) |
+| vpn498163073 | 124.45.107.93 | 10 | 2.89 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
+| vpn334638677 | 153.151.214.125 | 6 | 9.64 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
+| vpn311873401 | 188.242.236.230 | 6 | 8.47 Mbps | Russian Federation | [Download 📥](./configs/server_97_RU.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
