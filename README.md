@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 19 Jan 2025 03:27:20 GMT.
+This list was last updated on: Sun, 19 Jan 2025 03:28:12 GMT.
 
 ## Available Servers
 
@@ -52,10 +52,10 @@ Below is the list of available VPN servers:
 | vpn168022047 | 60.91.186.31 | 8 | 7.69 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
 | vpn181442028 | 47.229.151.94 | 21 | 7.57 Mbps | United States | [Download 📥](./configs/server_38_US.ovpn) |
 | vpn114491144 | 37.22.22.98 | 66 | 9.14 Mbps | Russian Federation | [Download 📥](./configs/server_39_RU.ovpn) |
-| vpn412627059 | 68.96.67.42 | 40 | 3.50 Mbps | United States | [Download 📥](./configs/server_40_US.ovpn) |
+| opengw | 217.138.212.58 | 4 | 0.00 Mbps | Romania | [Download 📥](./configs/server_40_RO.ovpn) |
 | familia2025 | 46.17.44.170 | 38 | 3.03 Mbps | Russian Federation | [Download 📥](./configs/server_41_RU.ovpn) |
-| vpn952982136 | 111.105.150.176 | 10 | 9.27 Mbps | Japan | [Download 📥](./configs/server_42_JP.ovpn) |
-| opengw | 217.138.212.58 | 4 | 0.00 Mbps | Romania | [Download 📥](./configs/server_43_RO.ovpn) |
+| vpn412627059 | 68.96.67.42 | 40 | 3.50 Mbps | United States | [Download 📥](./configs/server_42_US.ovpn) |
+| vpn952982136 | 111.105.150.176 | 10 | 9.27 Mbps | Japan | [Download 📥](./configs/server_43_JP.ovpn) |
 | vpn344048393 | 118.237.193.169 | 2 | 7.59 Mbps | Japan | [Download 📥](./configs/server_44_JP.ovpn) |
 | vpn406234445 | 60.111.216.105 | 3 | 75.95 Mbps | Japan | [Download 📥](./configs/server_45_JP.ovpn) |
 | vpn853431619 | 221.121.219.188 | 7 | 81.76 Mbps | Japan | [Download 📥](./configs/server_46_JP.ovpn) |
