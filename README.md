@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Mon, 20 Jan 2025 16:59:13 GMT.
+This list was last updated on: Mon, 20 Jan 2025 17:15:25 GMT.
 
 ## Available Servers
 
@@ -38,10 +38,10 @@ Below is the list of available VPN servers:
 | vpn227505306 | 203.210.49.219 | 70 | 4.67 Mbps | Korea Republic of | [Download 📥](./configs/server_23_KR.ovpn) |
 | vpn403986182 | 211.226.182.82 | 35 | 4.81 Mbps | Korea Republic of | [Download 📥](./configs/server_24_KR.ovpn) |
 | vpn138338357 | 106.248.236.2 | 37 | 62.31 Mbps | Korea Republic of | [Download 📥](./configs/server_25_KR.ovpn) |
-| vpn949391295 | 38.25.28.35 | 35 | 11.05 Mbps | Peru | [Download 📥](./configs/server_26_PE.ovpn) |
+| vpn949391295 | 38.25.28.35 | 34 | 13.02 Mbps | Peru | [Download 📥](./configs/server_26_PE.ovpn) |
 | public-vpn-55 | 219.100.37.20 | 16 | 3.06 Mbps | Japan | [Download 📥](./configs/server_27_JP.ovpn) |
 | vpn534938498 | 115.140.241.20 | 36 | 9.20 Mbps | Korea Republic of | [Download 📥](./configs/server_28_KR.ovpn) |
-| vpn636072219 | 126.119.134.162 | 5 | 8.78 Mbps | Japan | [Download 📥](./configs/server_29_JP.ovpn) |
+| vpn636072219 | 126.119.134.162 | 5 | 8.74 Mbps | Japan | [Download 📥](./configs/server_29_JP.ovpn) |
 | vpn949334021 | 180.81.139.109 | 37 | 68.70 Mbps | Korea Republic of | [Download 📥](./configs/server_30_KR.ovpn) |
 | vpn765866512 | 60.101.232.177 | 3 | 22.56 Mbps | Japan | [Download 📥](./configs/server_31_JP.ovpn) |
 | 2i6 | 1.66.33.41 | 44 | 0.25 Mbps | Japan | [Download 📥](./configs/server_32_JP.ovpn) |
@@ -110,6 +110,7 @@ Below is the list of available VPN servers:
 | vpn953242329 | 95.24.37.250 | 18 | 1.48 Mbps | Russian Federation | [Download 📥](./configs/server_95_RU.ovpn) |
 | vpn111673317 | 83.197.182.24 | - | 22.01 Mbps | France | [Download 📥](./configs/server_96_FR.ovpn) |
 | vpn144065078 | 117.109.158.45 | 6 | 12.64 Mbps | Japan | [Download 📥](./configs/server_97_JP.ovpn) |
+| vpn114263636 | 110.4.54.59 | 18 | 4.12 Mbps | Japan | [Download 📥](./configs/server_98_JP.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
