@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 25 Jan 2025 19:21:58 GMT.
+This list was last updated on: Sat, 25 Jan 2025 19:25:11 GMT.
 
 ## Available Servers
 
@@ -105,10 +105,9 @@ Below is the list of available VPN servers:
 | vpn566282990 | 116.122.93.164 | 35 | 9.63 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
 | vpn279532352 | 184.22.106.192 | 33 | 45.26 Mbps | Thailand | [Download 📥](./configs/server_91_TH.ovpn) |
 | vpn400531830 | 59.16.86.23 | 33 | 2.71 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
-| vpn167373301 | 92.126.22.174 | 64 | 26.15 Mbps | Russian Federation | [Download 📥](./configs/server_93_RU.ovpn) |
-| vpn450690548 | 184.22.114.131 | 34 | 30.12 Mbps | Thailand | [Download 📥](./configs/server_94_TH.ovpn) |
-| vpn124826882 | 94.181.120.45 | 31 | 2.47 Mbps | Russian Federation | [Download 📥](./configs/server_95_RU.ovpn) |
-| vpn324613340 | 159.192.42.28 | 49 | 54.60 Mbps | Thailand | [Download 📥](./configs/server_96_TH.ovpn) |
+| vpn450690548 | 184.22.114.131 | 34 | 30.12 Mbps | Thailand | [Download 📥](./configs/server_93_TH.ovpn) |
+| vpn124826882 | 94.181.120.45 | 31 | 2.47 Mbps | Russian Federation | [Download 📥](./configs/server_94_RU.ovpn) |
+| vpn324613340 | 159.192.42.28 | 49 | 54.60 Mbps | Thailand | [Download 📥](./configs/server_95_TH.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
