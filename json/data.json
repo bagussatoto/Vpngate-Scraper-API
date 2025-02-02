@@ -896,7 +896,7 @@
                 "numvpnsessions": "18",
                 "uptime": "14552980",
                 "totalusers": "30706",
-                "totaltraffic": "2665962612338",
+                "totaltraffic": "2665920910504",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-L7D3N9V's owner",
                 "message": "",
@@ -1682,5 +1682,5 @@
             "ir": "Iran (ISLAMIC Republic Of)"
         }
     },
-    1738528712666
+    1738528774856
 ]
