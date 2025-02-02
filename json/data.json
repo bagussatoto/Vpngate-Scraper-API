@@ -276,15 +276,15 @@
             {
                 "hostname": "vpn379139108",
                 "ip": "126.45.190.2",
-                "score": "935232",
+                "score": "935878",
                 "ping": "76",
                 "speed": "49983358",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "23",
+                "numvpnsessions": "24",
                 "uptime": "314743560",
-                "totalusers": "25507",
-                "totaltraffic": "3762987008076",
+                "totalusers": "25511",
+                "totaltraffic": "3765297739967",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-A32UU9F's owner",
                 "message": "",
@@ -1629,5 +1629,5 @@
             "cn": "China"
         }
     },
-    1738482329691
+    1738482374786
 ]
