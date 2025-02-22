@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 22 Feb 2025 07:30:50 GMT.
+This list was last updated on: Sat, 22 Feb 2025 07:32:31 GMT.
 
 ## Available Servers
 
@@ -97,9 +97,9 @@ Below is the list of available VPN servers:
 | vpn655578875 | 211.213.132.52 | 42 | 6.70 Mbps | Korea Republic of | [Download 📥](./configs/server_82_KR.ovpn) |
 | vpn853899741 | 61.206.242.165 | 7 | 36.09 Mbps | Japan | [Download 📥](./configs/server_83_JP.ovpn) |
 | vpn311787559 | 211.221.198.244 | 30 | 40.85 Mbps | Korea Republic of | [Download 📥](./configs/server_84_KR.ovpn) |
-| vpn106412996 | 49.228.244.79 | 46 | 3.68 Mbps | Thailand | [Download 📥](./configs/server_85_TH.ovpn) |
-| vpn926749131 | 14.51.27.37 | 30 | 6.62 Mbps | Korea Republic of | [Download 📥](./configs/server_86_KR.ovpn) |
-| vpn942499616 | 104.158.220.13 | 34 | 7.19 Mbps | Canada | [Download 📥](./configs/server_87_CA.ovpn) |
+| vpn926749131 | 14.51.27.37 | 30 | 6.62 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
+| vpn942499616 | 104.158.220.13 | 34 | 7.19 Mbps | Canada | [Download 📥](./configs/server_86_CA.ovpn) |
+| vpn106412996 | 49.228.244.79 | 46 | 3.68 Mbps | Thailand | [Download 📥](./configs/server_87_TH.ovpn) |
 | vpn580456162 | 77.82.231.118 | 151 | 4.49 Mbps | Russian Federation | [Download 📥](./configs/server_88_RU.ovpn) |
 | vpn277666768 | 162.0.155.13 | - | 11.96 Mbps | Saint Lucia | [Download 📥](./configs/server_89_LC.ovpn) |
 | vpn703888802 | 121.131.97.199 | 31 | 26.40 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
