@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 23 Feb 2025 03:31:36 GMT.
+This list was last updated on: Sun, 23 Feb 2025 03:31:59 GMT.
 
 ## Available Servers
 
@@ -41,8 +41,8 @@ Below is the list of available VPN servers:
 | vpn784498068 | 112.72.253.154 | 40 | 6.13 Mbps | Korea Republic of | [Download 📥](./configs/server_26_KR.ovpn) |
 | vpn711658835 | 61.76.60.236 | 24 | 8.58 Mbps | Korea Republic of | [Download 📥](./configs/server_27_KR.ovpn) |
 | public-vpn-237 | 219.100.37.186 | 14 | 216.28 Mbps | Japan | [Download 📥](./configs/server_28_JP.ovpn) |
-| public-vpn-197 | 219.100.37.211 | 23 | 95.29 Mbps | Japan | [Download 📥](./configs/server_29_JP.ovpn) |
-| public-vpn-159 | 219.100.37.112 | 15 | 166.98 Mbps | Japan | [Download 📥](./configs/server_30_JP.ovpn) |
+| public-vpn-159 | 219.100.37.112 | 15 | 166.98 Mbps | Japan | [Download 📥](./configs/server_29_JP.ovpn) |
+| public-vpn-197 | 219.100.37.211 | 23 | 95.29 Mbps | Japan | [Download 📥](./configs/server_30_JP.ovpn) |
 | vpn909850779 | 77.25.8.23 | 9 | 1.15 Mbps | Germany | [Download 📥](./configs/server_31_DE.ovpn) |
 | opengw | 217.138.212.58 | 10 | 30.24 Mbps | Romania | [Download 📥](./configs/server_32_RO.ovpn) |
 | vpn900296807 | 121.130.202.231 | 32 | 39.96 Mbps | Korea Republic of | [Download 📥](./configs/server_33_KR.ovpn) |
