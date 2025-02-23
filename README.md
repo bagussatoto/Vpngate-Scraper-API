@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 23 Feb 2025 03:49:20 GMT.
+This list was last updated on: Sun, 23 Feb 2025 03:52:01 GMT.
 
 ## Available Servers
 
@@ -107,7 +107,7 @@ Below is the list of available VPN servers:
 | aura0500 | 164.70.86.55 | 1 | 47.97 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
 | vpn582566305 | 60.113.119.179 | 6 | 25.93 Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) |
 | vpn629206046 | 121.141.168.8 | 30 | 9.66 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
-| _unregistered_vpn500315116 | 43.154.217.185 | 1 | 45.66 Mbps | China | [Download 📥](./configs/server_95_CN.ovpn) |
+| vpn757501756 | 111.238.189.171 | 3 | 2.58 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
