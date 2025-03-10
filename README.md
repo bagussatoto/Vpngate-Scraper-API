@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Mon, 10 Mar 2025 04:17:59 GMT.
+This list was last updated on: Mon, 10 Mar 2025 04:21:52 GMT.
 
 ## Available Servers
 
@@ -70,8 +70,8 @@ Below is the list of available VPN servers:
 | vpn927565768 | 61.213.204.22 | 9 | 7.61 Mbps | Japan | [Download 📥](./configs/server_55_JP.ovpn) |
 | vpn847485651 | 221.163.50.25 | 34 | 7.72 Mbps | Korea Republic of | [Download 📥](./configs/server_56_KR.ovpn) |
 | vpn100951413 | 118.0.88.143 | 4 | 50.29 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
-| vpn627600274 | 175.194.190.157 | 31 | 29.27 Mbps | Korea Republic of | [Download 📥](./configs/server_58_KR.ovpn) |
-| vpn564776824 | 110.135.102.73 | 16 | 22.73 Mbps | Japan | [Download 📥](./configs/server_59_JP.ovpn) |
+| vpn564776824 | 110.135.102.73 | 16 | 22.73 Mbps | Japan | [Download 📥](./configs/server_58_JP.ovpn) |
+| vpn627600274 | 175.194.190.157 | 31 | 29.27 Mbps | Korea Republic of | [Download 📥](./configs/server_59_KR.ovpn) |
 | vpn322196242 | 153.215.178.96 | 9 | 9.05 Mbps | Japan | [Download 📥](./configs/server_60_JP.ovpn) |
 | vpn175590299 | 27.83.202.83 | 3 | 81.43 Mbps | Japan | [Download 📥](./configs/server_61_JP.ovpn) |
 | vpn540846288 | 27.81.53.90 | 17 | 8.29 Mbps | Japan | [Download 📥](./configs/server_62_JP.ovpn) |
@@ -107,7 +107,7 @@ Below is the list of available VPN servers:
 | vpn520125656 | 112.187.58.188 | 33 | 6.34 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
 | vpn241346806 | 49.143.61.73 | 39 | 6.83 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
 | vpn161775884 | 221.159.26.3 | 31 | 27.76 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
-| vpn349490729 | 121.162.233.39 | 30 | 5.96 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
+| vpn794772005 | 123.254.185.245 | 38 | 10.21 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
