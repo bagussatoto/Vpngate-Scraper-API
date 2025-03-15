@@ -128,10 +128,10 @@
                 "speed": "2407537265",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "215",
-                "uptime": "3580589293",
-                "totalusers": "12982285",
-                "totaltraffic": "708683276136727",
+                "numvpnsessions": "217",
+                "uptime": "3580545396",
+                "totalusers": "12982283",
+                "totaltraffic": "708682908696041",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1634,5 +1634,5 @@
             "ec": "Ecuador"
         }
     },
-    1742066209777
+    1742066250109
 ]
