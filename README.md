@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 22 Mar 2025 11:38:27 GMT.
+This list was last updated on: Sat, 22 Mar 2025 11:42:19 GMT.
 
 ## Available Servers
 
@@ -110,7 +110,7 @@ Below is the list of available VPN servers:
 | vpn906329021 | 218.145.110.223 | 30 | 6.51 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
 | vpn951194492 | 121.135.78.222 | 30 | 19.13 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
 | vpn158642350 | 210.204.240.147 | 31 | 40.59 Mbps | Korea Republic of | [Download 📥](./configs/server_97_KR.ovpn) |
-| vpn330822688 | 121.139.41.79 | 33 | 7.49 Mbps | Korea Republic of | [Download 📥](./configs/server_98_KR.ovpn) |
+| vpn970764626 | 1.228.205.4 | 37 | 9.55 Mbps | Korea Republic of | [Download 📥](./configs/server_98_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
