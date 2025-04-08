@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Tue, 08 Apr 2025 03:02:23 GMT.
+This list was last updated on: Tue, 08 Apr 2025 03:09:06 GMT.
 
 ## Available Servers
 
@@ -50,10 +50,10 @@ Below is the list of available VPN servers:
 | vpn211578766 | 23.93.180.55 | 3 | 4.32 Mbps | United States | [Download 📥](./configs/server_35_US.ovpn) |
 | vpn238529007 | 85.12.212.97 | 44 | 0.92 Mbps | Russian Federation | [Download 📥](./configs/server_36_RU.ovpn) |
 | vpn856636793 | 110.4.213.249 | 12 | 9.47 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
-| vpn558476725 | 121.185.238.30 | 30 | 9.68 Mbps | Korea Republic of | [Download 📥](./configs/server_38_KR.ovpn) |
+| vpn558476725 | 121.185.238.30 | 30 | 8.17 Mbps | Korea Republic of | [Download 📥](./configs/server_38_KR.ovpn) |
 | vpn999617864 | 222.100.225.105 | 28 | 6.62 Mbps | Korea Republic of | [Download 📥](./configs/server_39_KR.ovpn) |
-| vpn399346484 | 114.159.62.102 | 14 | 7.43 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
-| vpn999934323 | 112.69.175.29 | 3 | 68.05 Mbps | Japan | [Download 📥](./configs/server_41_JP.ovpn) |
+| vpn999934323 | 112.69.175.29 | 3 | 68.05 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
+| vpn399346484 | 114.159.62.102 | 14 | 7.43 Mbps | Japan | [Download 📥](./configs/server_41_JP.ovpn) |
 | vpn469600655 | 126.4.241.6 | 2 | 42.31 Mbps | Japan | [Download 📥](./configs/server_42_JP.ovpn) |
 | vpn587535377 | 119.193.240.195 | 27 | 41.72 Mbps | Korea Republic of | [Download 📥](./configs/server_43_KR.ovpn) |
 | vpn518013858 | 14.53.151.129 | 33 | 3.02 Mbps | Korea Republic of | [Download 📥](./configs/server_44_KR.ovpn) |
@@ -99,15 +99,15 @@ Below is the list of available VPN servers:
 | vpn253272384 | 38.253.158.16 | 36 | 6.54 Mbps | Peru | [Download 📥](./configs/server_84_PE.ovpn) |
 | vpn790106917 | 118.32.125.46 | 30 | 20.52 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
 | vpn587254227 | 49.169.71.154 | 42 | 10.57 Mbps | Korea Republic of | [Download 📥](./configs/server_86_KR.ovpn) |
-| vpn375744795 | 1.229.118.162 | 29 | 49.32 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
-| vpn681514695 | 218.156.197.147 | 33 | 9.02 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
-| vpn243103819 | 222.109.0.170 | 29 | 46.45 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
+| vpn243103819 | 222.109.0.170 | 29 | 46.45 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
+| vpn375744795 | 1.229.118.162 | 29 | 49.32 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
+| vpn681514695 | 218.156.197.147 | 33 | 9.02 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
 | vpn512778891 | 182.224.198.133 | 57 | 14.16 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
 | vpn727791350 | 59.5.39.246 | 31 | 6.53 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
 | vpn673508063 | 58.237.163.188 | 39 | 46.22 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
 | vpn545684870 | 211.243.214.164 | 32 | 19.53 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
-| vpn340373325 | 180.93.163.148 | 33 | 2.49 Mbps | Viet Nam | [Download 📥](./configs/server_94_VN.ovpn) |
-| vpn755868914 | 178.76.227.89 | 34 | 6.37 Mbps | Russian Federation | [Download 📥](./configs/server_95_RU.ovpn) |
+| vpn755868914 | 178.76.227.89 | 34 | 6.37 Mbps | Russian Federation | [Download 📥](./configs/server_94_RU.ovpn) |
+| vpn340373325 | 180.93.163.148 | 33 | 2.49 Mbps | Viet Nam | [Download 📥](./configs/server_95_VN.ovpn) |
 | vpn227004204 | 59.14.218.220 | 33 | 3.60 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
 | vpn900324649 | 39.112.18.241 | 34 | 7.94 Mbps | Korea Republic of | [Download 📥](./configs/server_97_KR.ovpn) |
 | vpn234714065 | 135.180.236.203 | 13 | 4.28 Mbps | United States | [Download 📥](./configs/server_98_US.ovpn) |
