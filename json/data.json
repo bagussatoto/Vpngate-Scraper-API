@@ -38,15 +38,15 @@
             {
                 "hostname": "public-vpn-51",
                 "ip": "219.100.37.13",
-                "score": "1671027",
+                "score": "1672169",
                 "ping": "17",
                 "speed": "213647830",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "72",
-                "uptime": "257850898",
-                "totalusers": "8576805",
-                "totaltraffic": "416663391137075",
+                "numvpnsessions": "73",
+                "uptime": "257901196",
+                "totalusers": "8576806",
+                "totaltraffic": "416663498336042",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1682,5 +1682,5 @@
             "us": "United States"
         }
     },
-    1744811446137
+    1744811462800
 ]
