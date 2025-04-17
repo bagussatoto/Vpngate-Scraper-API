@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Thu, 17 Apr 2025 22:49:52 GMT.
+This list was last updated on: Thu, 17 Apr 2025 22:54:08 GMT.
 
 ## Available Servers
 
@@ -88,9 +88,9 @@ Below is the list of available VPN servers:
 | vpn967432544 | 131.147.45.184 | 4 | 9.47 Mbps | Japan | [Download 📥](./configs/server_73_JP.ovpn) |
 | vpn586465383 | 95.70.19.108 | 123 | 8.62 Mbps | Russian Federation | [Download 📥](./configs/server_74_RU.ovpn) |
 | vpn503734615 | 187.126.24.178 | 10 | 15.14 Mbps | Brazil | [Download 📥](./configs/server_75_BR.ovpn) |
-| vpn147771225 | 70.77.200.19 | 27 | 32.89 Mbps | Canada | [Download 📥](./configs/server_76_CA.ovpn) |
-| vpn594921443 | 115.95.232.117 | 37 | 32.39 Mbps | Korea Republic of | [Download 📥](./configs/server_77_KR.ovpn) |
-| vpn474707625 | 222.112.192.200 | 27 | 63.63 Mbps | Korea Republic of | [Download 📥](./configs/server_78_KR.ovpn) |
+| vpn474707625 | 222.112.192.200 | 27 | 63.63 Mbps | Korea Republic of | [Download 📥](./configs/server_76_KR.ovpn) |
+| vpn147771225 | 70.77.200.19 | 27 | 32.89 Mbps | Canada | [Download 📥](./configs/server_77_CA.ovpn) |
+| vpn594921443 | 115.95.232.117 | 37 | 32.39 Mbps | Korea Republic of | [Download 📥](./configs/server_78_KR.ovpn) |
 | vpn487990959 | 49.228.103.80 | 26 | 8.89 Mbps | Thailand | [Download 📥](./configs/server_79_TH.ovpn) |
 | vpn913689674 | 218.148.206.155 | 32 | 6.45 Mbps | Korea Republic of | [Download 📥](./configs/server_80_KR.ovpn) |
 | vpn183729255 | 220.79.248.42 | 32 | 7.94 Mbps | Korea Republic of | [Download 📥](./configs/server_81_KR.ovpn) |
@@ -108,7 +108,6 @@ Below is the list of available VPN servers:
 | vpn835160190 | 113.172.0.222 | 46 | 7.13 Mbps | Viet Nam | [Download 📥](./configs/server_93_VN.ovpn) |
 | vpn158614157 | 60.149.175.14 | 6 | 1.96 Mbps | Japan | [Download 📥](./configs/server_94_JP.ovpn) |
 | vpn313188550 | 50.47.108.60 | 7 | 1.99 Mbps | United States | [Download 📥](./configs/server_95_US.ovpn) |
-| vpn944055537 | 70.190.209.164 | 40 | 5.42 Mbps | United States | [Download 📥](./configs/server_96_US.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
