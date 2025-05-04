@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 04 May 2025 15:55:21 GMT.
+This list was last updated on: Sun, 04 May 2025 15:56:28 GMT.
 
 ## Available Servers
 
@@ -109,6 +109,7 @@ Below is the list of available VPN servers:
 | vpn585872143 | 46.163.138.42 | 45 | 8.74 Mbps | Russian Federation | [Download 📥](./configs/server_94_RU.ovpn) |
 | vpn556006110 | 178.85.84.170 | - | 23.91 Mbps | Netherlands | [Download 📥](./configs/server_95_NL.ovpn) |
 | vpn488921991 | 194.31.168.157 | - | 3.46 Mbps | Ukraine | [Download 📥](./configs/server_96_UA.ovpn) |
+| vpn185567157 | 24.247.253.91 | 15 | 1.94 Mbps | United States | [Download 📥](./configs/server_97_US.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
