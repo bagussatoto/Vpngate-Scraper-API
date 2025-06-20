@@ -264,10 +264,10 @@
                 "speed": "238490555",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "172",
-                "uptime": "5888098586",
-                "totalusers": "8550257",
-                "totaltraffic": "352872004974594",
+                "numvpnsessions": "171",
+                "uptime": "5888055371",
+                "totalusers": "8550256",
+                "totaltraffic": "352871931781110",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1679,5 +1679,5 @@
             "fr": "France"
         }
     },
-    1750440829254
+    1750440882544
 ]
