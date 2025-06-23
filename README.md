@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Mon, 23 Jun 2025 17:50:08 GMT.
+This list was last updated on: Mon, 23 Jun 2025 17:55:48 GMT.
 
 ## Available Servers
 
