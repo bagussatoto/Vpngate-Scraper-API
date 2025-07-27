@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 27 Jul 2025 08:41:28 GMT.
+This list was last updated on: Sun, 27 Jul 2025 08:49:03 GMT.
 
 ## Available Servers
 
@@ -102,13 +102,13 @@ Below is the list of available VPN servers:
 | vpn849356434 | 219.255.37.68 | 29 | 7.45 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
 | vpn105886003 | 222.238.231.51 | 34 | 9.48 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
 | vpn336201180 | 121.187.9.17 | 29 | 42.51 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
-| vpn935508159 | 125.131.227.26 | 31 | 6.73 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
-| vpn106621355 | 58.230.85.253 | 36 | 9.61 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
-| vpn399081295 | 59.11.19.147 | 32 | 1.55 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
-| vpn801611450 | 61.44.184.216 | 22 | 1.99 Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) |
-| vpn456334502 | 58.140.198.138 | 31 | 9.50 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
-| vpn308497959 | 121.136.106.180 | 31 | 8.58 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
-| vpn691052019 | 77.35.46.115 | 126 | 60.53 Mbps | Russian Federation | [Download 📥](./configs/server_96_RU.ovpn) |
+| vpn106621355 | 58.230.85.253 | 36 | 9.61 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
+| vpn399081295 | 59.11.19.147 | 32 | 1.55 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
+| vpn801611450 | 61.44.184.216 | 22 | 1.99 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
+| vpn456334502 | 58.140.198.138 | 31 | 9.50 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
+| vpn308497959 | 121.136.106.180 | 31 | 8.58 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
+| vpn691052019 | 77.35.46.115 | 126 | 60.53 Mbps | Russian Federation | [Download 📥](./configs/server_95_RU.ovpn) |
+| vpn822919085 | 61.105.210.53 | 47 | 9.49 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
