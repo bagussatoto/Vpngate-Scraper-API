@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Tue, 05 Aug 2025 20:31:46 GMT.
+This list was last updated on: Tue, 05 Aug 2025 20:34:55 GMT.
 
 ## Available Servers
 
@@ -68,11 +68,11 @@ Below is the list of available VPN servers:
 | vpn122653376 | 133.32.219.69 | 22 | 5.64 Mbps | Japan | [Download 📥](./configs/server_53_JP.ovpn) |
 | vpn240931195 | 121.141.137.123 | 32 | 3.61 Mbps | Korea Republic of | [Download 📥](./configs/server_54_KR.ovpn) |
 | vpn594611615 | 183.176.52.223 | 10 | 59.98 Mbps | Japan | [Download 📥](./configs/server_55_JP.ovpn) |
-| vpn329339461 | 221.12.211.137 | 8 | 61.98 Mbps | Japan | [Download 📥](./configs/server_56_JP.ovpn) |
-| vpn773597226 | 60.113.169.122 | 4 | 73.82 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
-| vpn177924343 | 175.213.186.96 | 26 | 7.78 Mbps | Korea Republic of | [Download 📥](./configs/server_58_KR.ovpn) |
-| vpn255208636 | 82.149.143.11 | 24 | 3.71 Mbps | Russian Federation | [Download 📥](./configs/server_59_RU.ovpn) |
-| vpn165275781 | 112.168.51.2 | 27 | 20.22 Mbps | Korea Republic of | [Download 📥](./configs/server_60_KR.ovpn) |
+| vpn165275781 | 112.168.51.2 | 27 | 9.83 Mbps | Korea Republic of | [Download 📥](./configs/server_56_KR.ovpn) |
+| vpn329339461 | 221.12.211.137 | 8 | 61.98 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
+| vpn773597226 | 60.113.169.122 | 4 | 73.82 Mbps | Japan | [Download 📥](./configs/server_58_JP.ovpn) |
+| vpn177924343 | 175.213.186.96 | 26 | 7.78 Mbps | Korea Republic of | [Download 📥](./configs/server_59_KR.ovpn) |
+| vpn255208636 | 82.149.143.11 | 24 | 3.71 Mbps | Russian Federation | [Download 📥](./configs/server_60_RU.ovpn) |
 | vpn259104646 | 27.72.25.249 | 29 | 8.37 Mbps | Viet Nam | [Download 📥](./configs/server_61_VN.ovpn) |
 | vpn139274541 | 222.107.229.70 | 31 | 41.74 Mbps | Korea Republic of | [Download 📥](./configs/server_62_KR.ovpn) |
 | vpn618122443 | 124.120.31.206 | 22 | 60.79 Mbps | Thailand | [Download 📥](./configs/server_63_TH.ovpn) |
