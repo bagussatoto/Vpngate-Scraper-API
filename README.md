@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 25 Oct 2025 04:46:53 GMT.
+This list was last updated on: Sat, 25 Oct 2025 04:47:58 GMT.
 
 ## Available Servers
 
@@ -51,12 +51,12 @@ Below is the list of available VPN servers:
 | vpn210950622 | 1.227.66.42 | 30 | 39.35 Mbps | Korea Republic of | [Download 📥](./configs/server_36_KR.ovpn) |
 | vpn990001127 | 183.96.132.83 | 30 | 8.71 Mbps | Korea Republic of | [Download 📥](./configs/server_37_KR.ovpn) |
 | vpn660186133 | 133.218.147.14 | 4 | 46.04 Mbps | Japan | [Download 📥](./configs/server_38_JP.ovpn) |
-| vpn810341050 | 46.37.128.99 | 40 | 29.81 Mbps | Russian Federation | [Download 📥](./configs/server_39_RU.ovpn) |
-| vpn595298283 | 116.123.228.25 | 37 | 9.57 Mbps | Korea Republic of | [Download 📥](./configs/server_40_KR.ovpn) |
+| vpn595298283 | 116.123.228.25 | 37 | 9.29 Mbps | Korea Republic of | [Download 📥](./configs/server_39_KR.ovpn) |
+| vpn810341050 | 46.37.128.99 | 40 | 29.81 Mbps | Russian Federation | [Download 📥](./configs/server_40_RU.ovpn) |
 | vpn804890292 | 126.77.185.5 | 14 | 9.43 Mbps | Japan | [Download 📥](./configs/server_41_JP.ovpn) |
 | vpn218737381 | 126.60.177.187 | 5 | 29.07 Mbps | Japan | [Download 📥](./configs/server_42_JP.ovpn) |
-| vpn246006115 | 58.186.45.229 | 20 | 10.19 Mbps | Viet Nam | [Download 📥](./configs/server_43_VN.ovpn) |
-| vpn857650109 | 14.132.55.42 | 6 | 76.87 Mbps | Japan | [Download 📥](./configs/server_44_JP.ovpn) |
+| vpn857650109 | 14.132.55.42 | 6 | 76.87 Mbps | Japan | [Download 📥](./configs/server_43_JP.ovpn) |
+| vpn246006115 | 58.186.45.229 | 20 | 10.19 Mbps | Viet Nam | [Download 📥](./configs/server_44_VN.ovpn) |
 | vpn690178218 | 126.219.5.21 | 8 | 39.24 Mbps | Japan | [Download 📥](./configs/server_45_JP.ovpn) |
 | vpn431575614 | 211.135.11.53 | 10 | 26.68 Mbps | Japan | [Download 📥](./configs/server_46_JP.ovpn) |
 | vpn982662951 | 188.32.141.57 | 14 | 20.01 Mbps | Russian Federation | [Download 📥](./configs/server_47_RU.ovpn) |
