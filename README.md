@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 26 Oct 2025 19:48:46 GMT.
+This list was last updated on: Sun, 26 Oct 2025 19:54:10 GMT.
 
 ## Available Servers
 
@@ -52,8 +52,8 @@ Below is the list of available VPN servers:
 | vpn428747401 | 14.52.203.214 | 31 | 2.42 Mbps | Korea Republic of | [Download 📥](./configs/server_37_KR.ovpn) |
 | vpn660220043 | 211.197.228.182 | 31 | 8.09 Mbps | Korea Republic of | [Download 📥](./configs/server_38_KR.ovpn) |
 | vpn178945616 | 118.106.221.61 | 6 | 91.93 Mbps | Japan | [Download 📥](./configs/server_39_JP.ovpn) |
-| vpn842464979 | 125.130.28.45 | 27 | 83.68 Mbps | Korea Republic of | [Download 📥](./configs/server_40_KR.ovpn) |
-| vpn669010119 | 180.199.187.67 | 12 | 68.17 Mbps | Japan | [Download 📥](./configs/server_41_JP.ovpn) |
+| vpn669010119 | 180.199.187.67 | 12 | 68.17 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
+| vpn842464979 | 125.130.28.45 | 27 | 83.68 Mbps | Korea Republic of | [Download 📥](./configs/server_41_KR.ovpn) |
 | vpn743727631 | 175.210.20.183 | 32 | 29.00 Mbps | Korea Republic of | [Download 📥](./configs/server_42_KR.ovpn) |
 | vpn228484957 | 124.214.80.202 | 18 | 11.52 Mbps | Japan | [Download 📥](./configs/server_43_JP.ovpn) |
 | vpn936439418 | 118.155.140.137 | 6 | 39.37 Mbps | Japan | [Download 📥](./configs/server_44_JP.ovpn) |
@@ -108,7 +108,7 @@ Below is the list of available VPN servers:
 | vpn816233183 | 121.141.100.107 | 27 | 49.22 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
 | vpn808023077 | 1.177.83.139 | 67 | 4.26 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
 | vpn316740402 | 42.82.211.182 | 46 | 9.44 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
-| vpn573552659 | 211.51.127.71 | 32 | 13.58 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
+| vpn809068944 | 1.229.52.185 | 34 | 47.89 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
