@@ -1593,7 +1593,7 @@
                 "numvpnsessions": "2",
                 "uptime": "1000",
                 "totalusers": "5254",
-                "totaltraffic": "969395883136",
+                "totaltraffic": "969398339204",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-NHRG3BV's owner",
                 "message": "",
@@ -1693,5 +1693,5 @@
             "vn": "Viet Nam"
         }
     },
-    1762602029391
+    1762602063028
 ]
