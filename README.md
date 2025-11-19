@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Wed, 19 Nov 2025 12:40:44 GMT.
+This list was last updated on: Wed, 19 Nov 2025 12:49:43 GMT.
 
 ## Available Servers
 
@@ -52,7 +52,7 @@ Below is the list of available VPN servers:
 | vpn460710060 | 113.154.6.225 | 3 | 40.57 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
 | vpn807506654 | 222.109.180.8 | 30 | 31.81 Mbps | Korea Republic of | [Download 📥](./configs/server_38_KR.ovpn) |
 | vpn983949836 | 113.154.84.113 | 7 | 4.98 Mbps | Japan | [Download 📥](./configs/server_39_JP.ovpn) |
-| vpn899755348 | 126.220.11.179 | 6 | 8.98 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
+| vpn899755348 | 126.220.11.179 | 6 | 8.41 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
 | vpn355062188 | 159.28.244.249 | 3 | 61.01 Mbps | Japan | [Download 📥](./configs/server_41_JP.ovpn) |
 | vpn511281664 | 126.121.162.240 | 7 | 29.44 Mbps | Japan | [Download 📥](./configs/server_42_JP.ovpn) |
 | vpn568564886 | 186.158.28.142 | 6 | 5.44 Mbps | Argentina | [Download 📥](./configs/server_43_AR.ovpn) |
