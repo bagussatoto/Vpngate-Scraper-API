@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Tue, 16 Dec 2025 11:25:53 GMT.
+This list was last updated on: Tue, 16 Dec 2025 11:32:09 GMT.
 
 ## Available Servers
 
@@ -100,15 +100,15 @@ Below is the list of available VPN servers:
 | vpn659309565 | 220.124.194.98 | 36 | 2.73 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
 | vpn579726637 | 124.111.208.232 | 64 | 5.70 Mbps | Korea Republic of | [Download 📥](./configs/server_86_KR.ovpn) |
 | vpn348179401 | 159.253.171.5 | 106 | 9.30 Mbps | Russian Federation | [Download 📥](./configs/server_87_RU.ovpn) |
-| vpn345427412 | 37.21.42.176 | 97 | 5.39 Mbps | Russian Federation | [Download 📥](./configs/server_88_RU.ovpn) |
-| vpn994180305 | 194.37.80.134 | 1 | 29.80 Mbps | United States | [Download 📥](./configs/server_89_US.ovpn) |
-| vpn692365941 | 164.138.90.31 | 116 | 4.26 Mbps | Russian Federation | [Download 📥](./configs/server_90_RU.ovpn) |
-| vpn418649091 | 77.82.237.72 | 157 | 9.07 Mbps | Russian Federation | [Download 📥](./configs/server_91_RU.ovpn) |
-| vpn322912574 | 8.24.20.75 | 13 | 2.08 Mbps | United States | [Download 📥](./configs/server_92_US.ovpn) |
-| aura143 | 164.70.84.149 | 1 | 9.76 Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) |
-| testinggate | 45.138.16.117 | 1 | 9.82 Mbps | Germany | [Download 📥](./configs/server_94_DE.ovpn) |
-| vpn393849744 | 60.108.221.44 | 16 | 5.98 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
-| vpn839644425 | 124.44.31.93 | 14 | 14.86 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
+| vpn994180305 | 194.37.80.134 | 1 | 29.80 Mbps | United States | [Download 📥](./configs/server_88_US.ovpn) |
+| vpn692365941 | 164.138.90.31 | 116 | 4.26 Mbps | Russian Federation | [Download 📥](./configs/server_89_RU.ovpn) |
+| vpn418649091 | 77.82.237.72 | 157 | 9.07 Mbps | Russian Federation | [Download 📥](./configs/server_90_RU.ovpn) |
+| vpn322912574 | 8.24.20.75 | 13 | 2.08 Mbps | United States | [Download 📥](./configs/server_91_US.ovpn) |
+| aura143 | 164.70.84.149 | 1 | 9.76 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
+| testinggate | 45.138.16.117 | 1 | 9.82 Mbps | Germany | [Download 📥](./configs/server_93_DE.ovpn) |
+| vpn393849744 | 60.108.221.44 | 16 | 5.98 Mbps | Japan | [Download 📥](./configs/server_94_JP.ovpn) |
+| vpn839644425 | 124.44.31.93 | 14 | 14.86 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
+| vpn228673294 | 58.78.114.172 | - | 9.63 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
