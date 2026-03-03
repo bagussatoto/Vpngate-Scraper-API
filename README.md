@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Tue, 03 Mar 2026 02:52:01 GMT.
+This list was last updated on: Tue, 03 Mar 2026 02:52:20 GMT.
 
 ## Available Servers
 
@@ -52,7 +52,7 @@ Below is the list of available VPN servers:
 | vpn237741743 | 130.62.13.161 | 4 | 63.40 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
 | vpn419460835 | 138.64.82.93 | 2 | 79.67 Mbps | Japan | [Download 📥](./configs/server_38_JP.ovpn) |
 | vpn781425022 | 112.145.244.250 | 41 | 42.19 Mbps | Korea Republic of | [Download 📥](./configs/server_39_KR.ovpn) |
-| vpn810729810 | 106.180.121.4 | 15 | 45.26 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
+| vpn810729810 | 106.180.121.4 | 16 | 62.79 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
 | vpn577708459 | 58.136.254.134 | 3 | 49.37 Mbps | Thailand | [Download 📥](./configs/server_41_TH.ovpn) |
 | vpn701662588 | 121.157.114.43 | 29 | 8.07 Mbps | Korea Republic of | [Download 📥](./configs/server_42_KR.ovpn) |
 | vpn830310425 | 171.5.186.210 | 6 | 53.25 Mbps | Thailand | [Download 📥](./configs/server_43_TH.ovpn) |
